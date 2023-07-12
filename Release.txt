@@ -1,0 +1,18 @@
+WORD_REPLACER - v1.0.0
+
+A program was created for replacing the words we desire in a sentence with:-
+	- a function defined and called in which all the logic is written
+	- a while loop to repeat the program continuously until the user needs to exit
+	- the replace() of class String to replace the word to be replaced with the word replacement
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+EMAIL_SLICER - v1.0.0
+
+A program was created for slicing an email with:-
+	- a function defined and called
+	- a while loop to repeat the program continuously until the user needs to exit.
+	- the split() of class String to split the email at the desired part.
+
+
+
